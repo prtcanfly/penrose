@@ -13,7 +13,6 @@ pub fn layouts() -> LayoutStack {
     let ratio_step = 0.1;
     let outer_px = 5;
     let inner_px = 5;
-    // let top_px = 18;
 
     stack!(
         MainAndStack::side(max_main, ratio, ratio_step),
