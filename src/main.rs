@@ -1,7 +1,3 @@
-//! penrose :: minimal configuration
-//!
-//! This file will give you a functional if incredibly minimal window manager that
-//! has multiple workspaces and simple client / workspace movement.
 mod bindings;
 mod layout;
 
