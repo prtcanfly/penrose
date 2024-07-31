@@ -9,7 +9,7 @@ use penrose::{
 
 pub fn layouts() -> LayoutStack {
     let max_main = 1;
-    let ratio = 0.6;
+    let ratio = 0.5;
     let ratio_step = 0.1;
     let outer_px = 5;
     let inner_px = 5;
